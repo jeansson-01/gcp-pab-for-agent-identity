@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.demo_state.env
+scripts/.demo_state.env
+**/.demo_state.env
+agent/deployment_metadata.json
+DEMO_SCRIPT.md
+*.log
+.DS_Store

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pab-storage-inspector"
+version = "0.1.0"
+description = "PAB Storage Inspector Agent for Agent Platform Agent Runtime"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "google-adk>=0.1.0",
+    "google-genai>=1.0.0",
+    "google-cloud-storage>=2.14.0",
+    "mcp>=1.2.0",
+    "fastapi>=0.110.0",
+    "uvicorn>=0.28.0",
+    "pydantic>=2.6.0",
+]

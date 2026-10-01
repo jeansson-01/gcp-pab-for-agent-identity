@@ -1,6 +1,6 @@
 # 🛡️ Google Cloud Principal Access Boundaries (PAB) Demo
 
-A complete, YouTube-ready demonstration showcasing how **Google Cloud Principal Access Boundaries (PAB)** provide hard identity containment for autonomous AI agents deployed in **Vertex AI Agent Runtime**, preventing rogue cross-project lateral movement and data exfiltration.
+A complete demonstration showcasing how **Google Cloud Principal Access Boundaries (PAB)** provide hard identity containment for autonomous AI agents deployed in **Agent Platform Agent Runtime**, preventing rogue cross-project lateral movement and data exfiltration.
 
 ---
 
